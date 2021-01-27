@@ -1,2 +1,1 @@
-# hello-world.
-123
+printf("Hello world!");
